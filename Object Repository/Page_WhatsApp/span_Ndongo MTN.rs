@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ndongo MTN</name>
+   <tag></tag>
+   <elementGuidId>460dd95d-4ca2-4b37-b7c1-ef2f963daa0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div/div[2]/div[3]/div[17]/div/div/div/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1b13a38-53d8-4633-900c-f327d240b18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>author</value>
+      <webElementGuid>fa4b2aa7-1527-48ac-bc80-18891c005a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>346303a0-a6e9-446f-aa55-02689e069a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3FuDI ajgl1lbb edeob0r2 _11JPr</value>
+      <webElementGuid>56617594-54cc-425d-afd7-88fa806d7aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ndongo MTN</value>
+      <webElementGuid>4552e7cf-1e94-48e4-b3b5-41fb179964d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;_3B19s&quot;]/div[@class=&quot;_3cjY2 copyable-area&quot;]/div[@class=&quot;_5kRIK&quot;]/div[@class=&quot;n5hs2j7m oq31bsqd gx1rr48f qh5tioqs&quot;]/div[17]/div[@class=&quot;CzM4m&quot;]/div[@class=&quot;message-in focusable-list-item _1AOLJ _1jHIY&quot;]/div[@class=&quot;UzMP7 _1uv-a _3m5cz&quot;]/div[@class=&quot;_1BOF7 _2AOIt&quot;]/div[@class=&quot;cm280p3y to2l77zo n1yiu2zv ft2m32mm oq31bsqd e1yunedv&quot;]/div[@class=&quot;_3IzYj color-7 _6rIWC p357zi0d&quot;]/span[@class=&quot;_3FuDI ajgl1lbb edeob0r2 _11JPr&quot;]</value>
+      <webElementGuid>a872cdbe-a1a0-417c-a693-a5f3e64781aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/div[2]/div[3]/div[17]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>f8ee3cd6-4746-4da2-9d32-816c84c5b358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Amen ooh pasto très bien l', &quot;'&quot;, 'apôtre jean mon Dieu veille')])[1]/following::span[8]</value>
+      <webElementGuid>2ebce34b-65d3-4e38-9e23-e92b0588d2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Gloire au Dieu de papa apôtre et de l', &quot;'&quot;, 'armure d', &quot;'&quot;, 'or famille cmt allez vs?')])[13]/following::span[10]</value>
+      <webElementGuid>5cd17c0f-3208-4a26-bc0d-e25ff43e9553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasto Orange'])[14]/preceding::span[2]</value>
+      <webElementGuid>f4a346d9-0f1f-49be-9e6d-600ee289997a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Gloire au Dieu de papa apôtre et de l', &quot;'&quot;, 'armure d', &quot;'&quot;, 'or famille cmt allez vs?')])[14]/preceding::span[3]</value>
+      <webElementGuid>ec230cb9-9565-43e9-b639-63277dfcab1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ndongo MTN']/parent::*</value>
+      <webElementGuid>807a1f53-8d7b-44df-b1d4-837d8f18c837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[17]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>ff35483d-d531-494f-9c6d-88966b00028b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ndongo MTN' or . = 'Ndongo MTN')]</value>
+      <webElementGuid>54bb1c43-e2b4-4a67-90ee-e13139228190</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

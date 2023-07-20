@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Payer avec du crdit</name>
+   <tag></tag>
+   <elementGuidId>dd699d0b-f14b-45d9-b567-31a2469cec47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='paiement_main']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#paiement_main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c89b963-9be0-4101-8a86-ce55a2dce1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>paiement_main</value>
+      <webElementGuid>f647a8f7-ad18-45ab-8155-245aa9b17ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>obbutton radius  
+            lgpd     
+              
+            </value>
+      <webElementGuid>b5dfcca3-0152-43c0-b89a-402b473e7080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payer avec du crédit</value>
+      <webElementGuid>0766f06a-fb3c-40d5-83b7-1dbd20bed8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paiement_main&quot;)</value>
+      <webElementGuid>8b743f9c-3df4-4585-a1f9-791d79b3fa0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='paiement_main']</value>
+      <webElementGuid>913a36e2-96a2-457c-9a47-2c8679f1efbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[3]/div/div/button</value>
+      <webElementGuid>fccf77ba-54eb-4ae8-8d07-1b4d72f53933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisissez votre mode de paiement'])[1]/following::button[1]</value>
+      <webElementGuid>65b1fd12-91ab-400f-bc33-42d71e9394f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orange Bonus Data Hebdomadaire'])[1]/following::button[1]</value>
+      <webElementGuid>65bed58e-f436-433b-a2a7-8ce138fad867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer via OM'])[1]/preceding::button[1]</value>
+      <webElementGuid>066937b6-7c5b-43a7-84fa-ecbb0961cc60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payer avec du crédit']/parent::*</value>
+      <webElementGuid>d601be40-9a9e-4c9a-b18e-4bea0365fdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>3500810e-bacf-454f-9bd5-8952e2ef5edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'paiement_main' and (text() = 'Payer avec du crédit' or . = 'Payer avec du crédit')]</value>
+      <webElementGuid>c09a6fe1-3c2e-44a5-8a44-8afdd24b11b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

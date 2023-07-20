@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_input_message</name>
+   <tag></tag>
+   <elementGuidId>8dbd71aa-a306-4c5e-b1ca-ae135fb2251c</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._2xy_p._3XKXx</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main&quot;)/footer[@class=&quot;_3E8Fg&quot;]/div[@class=&quot;_2lSWV _3cjY2 copyable-area&quot;]/div[@class=&quot;_4r9rJ&quot;]/span[2]/div[@class=&quot;_2lryq&quot;]/div[@class=&quot;_1VZX7&quot;]/div[@class=&quot;_2xy_p _3XKXx&quot;]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>294598d5-b5e3-489e-be66-0ca8f0e0b3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2xy_p _3XKXx</value>
+      <webElementGuid>6c02f9fb-ad2e-4979-9a2a-d5b9064502c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/footer[@class=&quot;_3E8Fg&quot;]/div[@class=&quot;_2lSWV _3cjY2 copyable-area&quot;]/div[@class=&quot;_4r9rJ&quot;]/span[2]/div[@class=&quot;_2lryq&quot;]/div[@class=&quot;_1VZX7&quot;]/div[@class=&quot;_2xy_p _3XKXx&quot;]</value>
+      <webElementGuid>8a03d091-4c05-4763-846e-8aa4f5aa1204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div[2]</value>
+      <webElementGuid>b457e684-1abb-4c5d-bf9d-9f96b6d6294f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Gloire à l', &quot;'&quot;, 'Homme Fort famille')])[1]/following::div[1]</value>
+      <webElementGuid>b49d06a7-d25f-435e-a5cc-1a0b0c7d3688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amen le bic singa noa koa de 9 ?'])[2]/following::div[24]</value>
+      <webElementGuid>c56a8cf6-83e9-49de-89d7-ea7484ba709f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infos du contact'])[1]/preceding::div[14]</value>
+      <webElementGuid>cf682acb-9ae7-4b5a-b831-cef944cb893c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ndongo MTN'])[5]/preceding::div[18]</value>
+      <webElementGuid>772969a9-2f36-4634-8b26-b5770df94214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/div[2]/div[2]</value>
+      <webElementGuid>13b01194-b94b-42b2-b533-93c9cdb4833c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

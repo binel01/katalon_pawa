@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Taper un message</name>
+   <tag></tag>
+   <elementGuidId>bf070d70-9aea-490b-b978-dc7bec8ae5c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._3Uu1_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c7b5545-7dd4-460c-b8ea-06edb67b5429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f47cba21-d2c6-4045-9e36-8382f3b35158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3Uu1_</value>
+      <webElementGuid>23b6a9fa-282f-4c29-ba8c-c1108dabac7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Taper un message</value>
+      <webElementGuid>b3e35750-2fe0-4335-b5c1-dbdd5f9c7f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/footer[@class=&quot;_3E8Fg&quot;]/div[@class=&quot;_2lSWV _3cjY2 copyable-area&quot;]/div[@class=&quot;_4r9rJ&quot;]/span[2]/div[@class=&quot;_2lryq&quot;]/div[@class=&quot;_1VZX7&quot;]/div[@class=&quot;_3Uu1_&quot;]</value>
+      <webElementGuid>322ec9c6-349b-4553-8005-298d9b1459fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/footer/div/div/span[2]/div/div[2]/div</value>
+      <webElementGuid>bab94561-be76-4abd-805a-dad23461b5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amen le bic singa noa koa de 9 ?'])[2]/following::div[21]</value>
+      <webElementGuid>8f70ecb6-656b-45f1-b837-e1782dd7cb82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pa Alain Bonaberi'])[2]/following::div[23]</value>
+      <webElementGuid>42e75330-be4f-40a0-a5ad-34973ddb4482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infos du contact'])[1]/preceding::div[18]</value>
+      <webElementGuid>91628aa1-b507-4d5a-a3ab-3037261bb441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/div[2]/div</value>
+      <webElementGuid>e97af7d7-0690-4758-b056-8766f204d905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Taper un message' or . = 'Taper un message')]</value>
+      <webElementGuid>75e9c9fa-f6b3-4e81-9990-9ec90cbc4cb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
